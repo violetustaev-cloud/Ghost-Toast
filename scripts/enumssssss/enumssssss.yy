@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"enumssssss",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"enumssssss",
+  "parent":{
+    "name":"EnemyObjects",
+    "path":"folders/EnemyObjects.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
